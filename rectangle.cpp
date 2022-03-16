@@ -19,9 +19,6 @@ int main(){
     cout << "Area of rectangle :"<< area << endl;
 
     getch();
-
-
-
 }
 
 
