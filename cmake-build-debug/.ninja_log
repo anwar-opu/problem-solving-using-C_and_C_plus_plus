@@ -1,10 +1,11 @@
 # ninja log v5
 0	1313	6682511820708716	CMakeFiles/C__.dir/main.cpp.obj	973ec0245e9a6c04
 3	963	6683407385630685	CMakeFiles/C__.dir/multipleInput.cpp.obj	6cd78c97792d873f
-728	1188	6688612604568332	C__.exe	650dedd503f5df85
-2	448	6690689872910311	build.ninja	c17d8562453e79b9
+791	1054	6693682837675782	C__.exe	24eade6d80465b8f
+2	448	6693746933701988	build.ninja	c17d8562453e79b9
 5	436	6682638566444273	CMakeFiles/C__.dir/test.cpp.obj	7ab158d209737ae0
 4	435	6683375277407910	CMakeFiles/C__.dir/stringVariable.cpp.obj	ff3a0512aae34ea8
+13	966	6693746787869142	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
 6	1098	6682668920552610	CMakeFiles/C__.dir/program1.cpp.obj	88765f6d334b33ec
 5	2539	6683438668208900	CMakeFiles/C__.dir/Basicdatatype.cpp.obj	e04062edd3b42b1d
 6	627	6686845192225393	CMakeFiles/C__.dir/Arithmetic.cpp.obj	46c61ffc8a52512
@@ -14,3 +15,21 @@
 3	449	6688593217321362	CMakeFiles/C__.dir/ConditionalStatements.cpp.obj	d39b12462c5fd642
 2	676	6688595329031802	CMakeFiles/C__.dir/forloop.cpp.obj	928225a74351869a
 4	728	6688612599950986	CMakeFiles/C__.dir/maxValue.cpp.obj	8c11a8e920346d32
+4	604	6692893433705091	CMakeFiles/C__.dir/Arrays_Introduction.cpp.obj	547ca715e4d39c4b
+13	597	6692878404856403	CMakeFiles/C__.dir/poinerProblem.cpp.obj	fd58c2962e686787
+7	790	6693682835120305	CMakeFiles/C__.dir/TemperatureConverter.cpp.obj	cb818817f3f595e4
+6	317	6693746948264159	C__.exe	292f23ee3aaff88f
+4	747	6693747425123006	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+749	1008	6693747427669540	C__.exe	292f23ee3aaff88f
+4	583	6693750069361598	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+584	772	6693750071179480	C__.exe	292f23ee3aaff88f
+5	462	6693750435335187	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+463	694	6693750437548397	C__.exe	292f23ee3aaff88f
+4	468	6693752749332996	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+468	678	6693752751380169	C__.exe	292f23ee3aaff88f
+4	531	6693752914489513	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+532	774	6693752916998063	C__.exe	292f23ee3aaff88f
+4	501	6693753075317596	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+502	711	6693753077338598	C__.exe	292f23ee3aaff88f
+4	498	6693753220161293	CMakeFiles/C__.dir/BitwiseOperator.cpp.obj	1becc97754996883
+499	733	6693753222449980	C__.exe	292f23ee3aaff88f
