@@ -12,15 +12,35 @@ int main(){
 
     //array input:
     for (int i = 0; i < studentnum; i++ ) {
+        cout<<"marks for student  "<<i+1<<endl;
         cin>> marks[i];
     }
     //sum of marks:
     for (int i = 0; i < studentnum; ++i) {
         sum = sum + marks[i];
     }
-    cout << "total marks  = "<< sum<<endl;
+
     average = (float)sum / studentnum;
+
+    // maximum & minimum
+    int max = marks[0];
+    int min = marks[0];
+    for (int i = 1; i < studentnum; i++) {
+        //maximum
+        if (max <marks[i]){
+            max = marks[i];
+        }
+        //minimum
+        if (min>marks[i]) {
+            min = marks[i];
+        }
+    }
+
+    cout << "total marks  = "<< sum<<endl;
     cout<< "average " << average << endl;
+    cout<<"maximum marks "<< max << endl;
+    cout<<"minimum marks "<< min << endl;
+
 
 }
 
