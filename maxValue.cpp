@@ -1,18 +1,20 @@
 #include <iostream>
-#include <cstdio>
+
 using namespace std;
 int main() {
-    int arr[10];
+    int data[10],i,j,num;
 
-    for (int i = 0; i < 4; i++) {
-        scanf("%d", &arr[i]);
+    cout<<"How many numbers? " << endl;
+    cin>> num;
+    for (i = 0; i < num; i++) {
+        cin>>data[i];
     }
-    int max = arr[0];
-    for (int j = 0; j < 5 ;j++){
-        if (max<arr[j])
-            max = arr[j];
+    int max = data[0];
+    for ( j = 1; j < num ;j++){
+        if (max<data[j])
+            max = data[j];
     }
-    printf("%d", max);
+    cout<<"max value " << max;
 
     return 0;
 }
