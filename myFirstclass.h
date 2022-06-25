@@ -5,6 +5,7 @@
 class myFirstclass {
     public:
     myFirstclass();
+    ~myFirstclass();
     void display();
 
 };
