@@ -6,7 +6,7 @@ int main(){
     int b[]={56,34,78,32,56,78,3,4,5,6};
 
 
-    printf("Size of array a %d \n", SIZE(a) );
-    printf("Size of array b %d \n", sizeof(b)/sizeof(a[0]));
+
+    printf("Size of array b %d \n", sizeof(a)/sizeof(a[0]));
 
 }
