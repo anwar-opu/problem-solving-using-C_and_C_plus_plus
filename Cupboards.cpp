@@ -28,7 +28,7 @@ int main(){
     }
 
     result = min(zero,one) + min(oneb,zerob);
-    cout<<""<<result;
+    cout<<result;
 
 
 }
